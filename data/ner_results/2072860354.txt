@@ -1,0 +1,28 @@
+David Beran (PERSON)
+Philip Morris (ORG)
+USA (GPE)
+Park Avenue (FAC)
+New York (GPE)
+NY (ORG)
+Cambridge Brand
+
+Professional Fees (ORG)
+2nd half (DATE)
+80,000.00 (MONEY)
+Reimbursable Expenses (WORK_OF_ART)
+August and September 1995 (DATE)
+Grant & Partners Limited Partnership (ORG)
+3 (CARDINAL)
+8 (CARDINAL)
+150 (CARDINAL)
+Federal Street (ORG)
+27th Floor
+Boston (FAC)
+MA 02110
+
+Exchange (ORG)
+150 (CARDINAL)
+Federal Strect Boston (ORG)
+MA 02110 Phone (ORG)
+617 (CARDINAL)
+390-1399 (DATE)

@@ -1,0 +1,15 @@
+POLITICAL (ORG)
+October 31, 1994 (DATE)
+carl Cascio
+
+ (PERSON)
+9393 (CARDINAL)
+Boynton Beach (GPE)
+FL (ORG)
+33437 (CARDINAL)
+Party (ORG)
+Republican (NORP)
+250.00 (MONEY)
+1401-7710-FLO1 (DATE)
+Carl Cascio (PERSON)
+Notes (PRODUCT)

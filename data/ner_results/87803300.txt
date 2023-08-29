@@ -1,0 +1,18 @@
+Greensboro (GPE)
+NC (GPE)
+27420-1688 (DATE)
+Alex W. Spears (PERSON)
+1099 (DATE)
+Winterson Rosd (WORK_OF_ART)
+Suite (ORG)
+280 (CARDINAL)
+March 30, 1989
+
+ (DATE)
+April (DATE)
+April 20, 1989
+
+ (DATE)
+42,552.40 (MONEY)
+42,552.40 (GPE)
+42,552.40 (MONEY)

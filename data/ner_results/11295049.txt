@@ -1,0 +1,26 @@
+March 30, 1964 (DATE)
+D. Sterling
+College of Medicine
+
+Eden (ORG)
+Bethesda Avenues (PERSON)
+Cincinnati (GPE)
+Tobacco Industry Research Committee (ORG)
+150 (CARDINAL)
+New York (GPE)
+17 (DATE)
+New York (GPE)
+R. C (PERSON)
+Hockett
+
+Consultation (ORG)
+March 10, 1964 (DATE)
+Hotel (ORG)
+Ten days (DATE)
+200 (MONEY)
+Dr (GPE)
+Eugene Saenger (PERSON)
+2000.00 (MONEY)
+200.00 (CARDINAL)
+2300.00 (MONEY)
+2531.13 (MONEY)

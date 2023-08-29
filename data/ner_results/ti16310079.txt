@@ -1,0 +1,19 @@
+POLITICAL (ORG)
+September 16, 1994 (DATE)
+305 (CARDINAL)
+S. VanCouver (PERSON)
+Russellville (ORG)
+AR 72801
+
+ (ORG)
+Democrat (NORP)
+House (ORG)
+Insurance and Commerce (ORG)
+Joint Committee on Energy (ORG)
+200.00 (MONEY)
+Doc" Bryan Campaign Fund
+Address (ORG)
+Notes (PRODUCT)
+Yate (WORK_OF_ART)
+7 (CARDINAL)
+71631-0079 (DATE)

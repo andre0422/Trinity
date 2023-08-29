@@ -1,0 +1,21 @@
+POLITICAL (ORG)
+October 2, 1998 (DATE)
+Barbara Cegavske (PERSON)
+Candace Funding (ORG)
+6465 (DATE)
+Las Vegas (GPE)
+NV 89102
+
+Current Office (ORG)
+Aspired Office and District (WORK_OF_ART)
+State Assembly (ORG)
+Party (ORG)
+Republican (NORP)
+Casa (ORG)
+300.00 (MONEY)
+1401-7710-NV-O1
+ (DATE)
+Barbara Cegavske (PERSON)
+Notes (PRODUCT)
+2/95 (CARDINAL)
+TH712-0498 (PRODUCT)

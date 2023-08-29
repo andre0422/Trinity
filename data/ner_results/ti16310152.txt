@@ -1,0 +1,16 @@
+POLITICAL (ORG)
+October 17, 1994 (DATE)
+250.00 (MONEY)
+Herman Holloway (PERSON)
+609 (CARDINAL)
+S. Heald (PERSON)
+Wilmington (GPE)
+19802 (DATE)
+Democrat (NORP)
+Herman Holloway (PERSON)
+Sort (PRODUCT)
+6 (CARDINAL)
+Lewtie kro
+
+ (PERSON)
+1401-7710-DEOL (DATE)

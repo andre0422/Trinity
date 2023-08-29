@@ -1,0 +1,21 @@
+POLITICAL (ORG)
+May 13, 1998 (DATE)
+Conte Fusing On
+Address P.O (WORK_OF_ART)
+Las Vegas (GPE)
+NV 89180
+
+Current Office (ORG)
+Dist (NORP)
+13 (CARDINAL)
+District
+
+Party (ORG)
+Republican (NORP)
+Leadership Position Assembly (ORG)
+500.00 (MONEY)
+1401-7710-NV (DATE)
+KOA (ORG)
+Notes (PRODUCT)
+2/95 (CARDINAL)
+11712-0370 (DATE)

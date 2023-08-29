@@ -1,0 +1,13 @@
+POLITICAL (ORG)
+July 21, 1994 (DATE)
+Barbara Marumoto (PERSON)
+P.O. Box 2274
+ (PERSON)
+Honolulu (GPE)
+96804 (DATE)
+D-17 (PRODUCT)
+Republican (NORP)
+GOP (ORG)
+100.00 (MONEY)
+1401-7710-HIO1 (DATE)
+Barbara Marumoto (PERSON)

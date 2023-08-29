@@ -1,0 +1,19 @@
+ARNOLD & PORTER (ORG)
+Washington DC Check (GPE)
+Payee (GPE)
+William £ (PERSON)
+Wecker Associates, Inc. (ORG)
+Philip Morris (ORG)
+Iron Workers Insurance Fund
+
+ (ORG)
+34S (CARDINAL)
+29,57558 (MONEY)
+182 (CARDINAL)
+2/1/99 (CARDINAL)
+2/28/99 (CARDINAL)
+Murray Gamick/Atty/DCiAmoldAndPorter
+Timekeeper (PERSON)
+Namo (ORG)
+Murray GamickiAtty/DC (ORG)
+Murray Garnich/A\ly/OC (PERSON)

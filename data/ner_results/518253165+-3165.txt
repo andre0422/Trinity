@@ -1,0 +1,14 @@
+96 (CARDINAL)
+FRI (ORG)
+11565 (CARDINAL)
+David Powers (PERSON)
+Rogional (ORG)
+Winston-Salem (GPE)
+NC (GPE)
+27102 (DATE)
+EFF (ORG)
+Tex-Exompt (LOC)
+# 94-9136961
+
+Contribution (MONEY)
+the Evergreen Freedom Foundation (ORG)

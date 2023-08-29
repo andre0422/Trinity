@@ -1,0 +1,13 @@
+POLITICAL (ORG)
+September 20, 1994 (DATE)
+William R. " (PERSON)
+Holly Springs (GPE)
+38634 (CARDINAL)
+District
+Party (ORG)
+Democrat (NORP)
+Senate Finance Committee (ORG)
+100.00 (MONEY)
+1401~7710 (CARDINAL)
+William R. " (PERSON)
+Notes (PRODUCT)

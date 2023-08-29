@@ -1,0 +1,24 @@
+AX Arthur DLittle Inc
+
+Brown & Wi11Jamson Tobacco Corporation (ORG)
+1600 (CARDINAL)
+West Hill Street (LOC)
+Loufeville (GPE)
+Kentucky (GPE)
+40201 (DATE)
+W. Haghes (PERSON)
+Research
+& Developnent (ORG)
+76038 (CARDINAL)
+3 (CARDINAL)
+CAMBRIDGE (GPE)
+MASSACHUSETTS 02140
+
+POST OF FICE BOX aHB
+ (ORG)
+0510W (DATE)
+trassACHUSETYS 07243
+
+ (ORG)
+March 31, 1976 (DATE)
+SSOTOOTTS (ORG)

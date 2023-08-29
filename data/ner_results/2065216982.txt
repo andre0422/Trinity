@@ -1,0 +1,33 @@
+35 (CARDINAL)
+Suite (PERSON)
+200 (CARDINAL)
+Chicago (GPE)
+60601-2104 (DATE)
+312/372-9333 (CARDINAL)
+312/372-0682 (CARDINAL)
+Page (PERSON)
+1 (CARDINAL)
+August 7, 1996
+
+ (DATE)
+Tavoi (PERSON)
+PHILIP MORRIS (ORG)
+U.S.A.
+Division: Marlboro
+
+Service and Production (ORG)
+000149 (CARDINAL)
+1 (CARDINAL)
+NetAmount Commission (ORG)
+Commissionable Purchases (WORK_OF_ART)
+5,627.20 (CARDINAL)
+0.00 (CARDINAL)
+90.55 (CARDINAL)
+0.00 90.55 (CARDINAL)
+Total for Job Component (ORG)
+S773 (PRODUCT)
+Tor Tavoice (PERSON)
+EYATIAA (ORG)
+8 (CARDINAL)
+8 (CARDINAL)
+8 (CARDINAL)

@@ -1,0 +1,42 @@
+UNIVE
+
+Accounting Office (ORG)
+Extramural Accounting (ORG)
+INVOICE TO &
+Dr. (ORG)
+Bruce (PERSON)
+Phitip Monis U.S.A. (ORG)
+Commerce Road
+IRichmond, VA 25234
+
+‘OF CALIFORNIA (WORK_OF_ART)
+DAVIS (ORG)
+Osiober 19, 2007
+
+ (DATE)
+60.86 (CARDINAL)
+7-887 (CARDINAL)
+PI (ORG)
+Wexler
+Department: Mechanical Engr (ORG)
+3 (CARDINAL)
+7,859.80 (MONEY)
+Supplies and Expenses (WORK_OF_ART)
+$43.23 ¢ (MONEY)
+0.00 (MONEY)
+656.19 (MONEY)
+48% (PERCENT)
+4,108.33 (MONEY)
+12,667.55 (MONEY)
+Please Rel Invoice Copy (WORK_OF_ART)
+Romar (PERSON)
+Hare (GPE)
+Strona Furcse Manogee
+
+Cottiied (ORG)
+Gare (ORG)
+oan (PRODUCT)
+cea (ORG)
+Jone (PERSON)
+coona 9sie (ORG)
++ Dayments (CARDINAL)

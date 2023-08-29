@@ -1,0 +1,28 @@
+31 (CARDINAL)
+Call for Check Pickup Name Ext (WORK_OF_ART)
+AP (ORG)
+69321100 (MONEY)
+AP (ORG)
+155,278.00 (CARDINAL)
+The Council For Tobacco Research - USA. (ORG)
+Third Avenue (FAC)
+New York (GPE)
+10022 (DATE)
+2/13 (CARDINAL)
+the Special
+
+Project Fund
+
+G/L Account Code Other Required Code Amount (ORG)
+04-88-0020-9091-807 5328 (DATE)
+155,278.00 (TIME)
+WW (ORG)
+cht (ORG)
+2/2 (CARDINAL)
+2% (PERCENT)
+sna
+van (FAC)
+nL (GPE)
+sae ese (ORG)
+LA (GPE)
+S689 LeLos (WORK_OF_ART)

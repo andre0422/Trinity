@@ -1,0 +1,34 @@
+Division of Health Sciences
+Department of Pharmacy
+
+INVOICE eh
+
+FOR EXPENCES (ORG)
+R. Dempsey Date (PERSON)
+March 22nd 1994 (DATE)
+Philip Morris Europe (ORG)
+Reuniens SA (PERSON)
+Neuchatel (PERSON)
+Switzerland (GPE)
+1 (CARDINAL)
+2,700.00 (MONEY)
+2 00 (PRODUCT)
+Cheques (ORG)
+King's College London (ORG)
+Barclays Bank (ORG)
+20-38-09 (DATE)
+Biopharmacy Research
+Support (ORG)
+21275089 (DATE)
+Crown Parade (PRODUCT)
+926 (CARDINAL)
+Uxbridge Read (WORK_OF_ART)
+Hayes (PERSON)
+Middx (PERSON)
+U-K. (NORP)
+ING'S
+College
+ (ORG)
+LONDON (GPE)
+Founded Say (PERSON)
+59 (CARDINAL)

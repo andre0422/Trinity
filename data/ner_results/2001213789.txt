@@ -1,0 +1,23 @@
+Beratung (GPE)
+Philip Morris U.S.A (ORG)
+Researeh
+Research Center (ORG)
+6 (MONEY)
+26583 (DATE)
+Heventwete 32 (ORG)
+Teton (ORG)
+Richmond (GPE)
+Va. (GPE)
+23261 (DATE)
+USA
+Septenber 7, 1983
+
+ (EVENT)
+Synthetic Azs-conpounds (PERSON)
+3 (CARDINAL)
+Quarter 1983 (DATE)
+Povcncar Haro (ORG)
+Cann (PRODUCT)
+801 (CARDINAL)
+2000000 (CARDINAL)
+3 (CARDINAL)

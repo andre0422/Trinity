@@ -1,0 +1,44 @@
+american Advertising Federation
+
+American Association of Advertising Agencies
+
+Association of National Advertisers (ORG)
+2 (CARDINAL)
+Daniel Jaffe WILEY (PERSON)
+REIN & FIELDING (ORG)
+1776 (DATE)
+WW
+
+ (EVENT)
+1725 (DATE)
+K Street (ORG)
+N.W. WASHINGTON (GPE)
+8.6 (CARDINAL)
+26006 (DATE)
+Washington (GPE)
+20006 (DATE)
+WWTHEWATTEROF Legal Services Rendered (ORG)
+January (DATE)
+February 1987 (DATE)
+ABA_Lobbyina Campaign
+
+Review (ORG)
+New York (GPE)
+House of Delegates (ORG)
+New Orleans (GPE)
+House (ORG)
+Delegates (ORG)
+Advertising Coalition (ORG)
+New Orleans (GPE)
+House of Delegates (ORG)
+New Orleans (GPE)
+28,375.00 (MONEY)
+635.00 (MONEY)
+Database Research (ORG)
+114.42 (CARDINAL)
+6.00 (CARDINAL)
+1.77 (CARDINAL)
+222.87 (CARDINAL)
+1,590.00 (DATE)
+29,965.00 (MONEY)
+4£06T0Sz02 (CARDINAL)

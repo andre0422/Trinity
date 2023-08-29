@@ -1,0 +1,16 @@
+POLITICAL (ORG)
+July 22, 1994 (DATE)
+¥ (ORG)
+Brian Taniguchi (PERSON)
+Honolulu (GPE)
+96822 (DATE)
+Party (ORG)
+Democrat (NORP)
+Labor & Public Employment
+
+CONTRIBUTION INFORMATION
+
+Amount (ORG)
+100.00 (MONEY)
+1401-7710-HIO1 (DATE)
+Notes (PRODUCT)

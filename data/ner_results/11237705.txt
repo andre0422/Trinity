@@ -1,0 +1,25 @@
+Tosacco Resrarcu-U.S.A. (ORG)
+110 (CARDINAL)
+August 27, 1982
+
+ (DATE)
+35x-33572V (MONEY)
+Union Carbide Corporation (ORG)
+Oak Ridge (GPE)
+Tenn. (GPE)
+37830 (DATE)
+R.B. Bible (ORG)
+Accounts Payable Department (ORG)
+Quantity Description
+
+Schimatzu Glass Forming Machine (ORG)
+Gas Chromatograph, Property No. (LAW)
+126502 (DATE)
+HP Autosampler (PERSON)
+Dual Channel Chart Recorder (ORG)
+Sample Oxidizer (PERSON)
+128830 (DATE)
+DEC Writer I, Property No. (WORK_OF_ART)
+Controller (PERSON)
+19,000.00 (MONEY)
+CTR CONTRACTS 017957 (ORG)

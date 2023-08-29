@@ -1,0 +1,17 @@
+POLITICAL (ORG)
+March 3, 1998 (DATE)
+Sandra Tiffany (PERSON)
+Candle Farsi Ore (ORG)
+2289 (DATE)
+Cassatt Drive (PERSON)
+Henderson (GPE)
+Assembly (ORG)
+21 (MONEY)
+Aspired Office and District (WORK_OF_ART)
+Republican (NORP)
+1401-7710-NV-01 (DATE)
+Sandra Tiffany
+
+‘ (PERSON)
+Notes ‘AS (WORK_OF_ART)
+2/95 (CARDINAL)

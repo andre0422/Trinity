@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f4f4f4;
+}
+
+#container {
+    display: flex;  /* Display as flex to make children sit side by side */
+    justify-content: space-between;  /* Space out the child elements */
+    align-items: flex-start; /* Make sure they align at the top */
+}
+
+#image-section {
+    flex: 1; /* Take up 1 portion of the available space */
+    margin-right: 20px; /* Add some margin for spacing */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: white;
+}
+
+#text-section {
+    flex: 2;  /* Take up 2 portions of the available space, making it wider than the image section */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: white;
+}
+
+h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+pre {
+    white-space: pre-wrap; /* To wrap long lines */
+}
+
+img {
+    max-width: 100%;
+    display: block;  /* Make the image a block element to remove any bottom whitespace */
+    margin: 0 auto; /* Center the image if it's smaller than the container */
+}
+
+table {
+    width: 100%; /* Make the table span the entire width of its container */
+}

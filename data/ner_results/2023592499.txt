@@ -1,0 +1,33 @@
+ARIA
+
+Associates For Research On Indoor Air
+Co-ordinator (ORG)
+G.B. LESLIE (PERSON)
+Ivel Gardens (LOC)
+Biggleswade
+Beds (WORK_OF_ART)
+England
+Tel (PERSON)
+0)767 318474 (DATE)
+0)767 313929 (DATE)
+Rupp Esq (GPE)
+Covington & Burling (ORG)
+1201 (DATE)
+Pennsylvania Avenue (FAC)
+Washington Dc (GPE)
+20007 (DATE)
+USA (GPE)
+10th August 1992 (DATE)
+INVOICE - UK & Europe (ORG)
+12,200.00 (CARDINAL)
+1,966.64 (MONEY)
+16,783.34 (CARDINAL)
+Office (ORG)
+2,683196.~ (MONEY)
+33,533.94 (MONEY)
+1.00 (MONEY)
+2.54 Swiss Francs (MONEY)
+CQUE 384.168 (PRODUCT)
+Luzurn (PERSON)
+the Union Bank of Switzerland (ORG)
+66Pe6Sez02 (CARDINAL)

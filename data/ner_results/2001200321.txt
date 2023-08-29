@@ -1,0 +1,22 @@
+HOMBURGER (ORG)
+0 (DATE)
+Oiractor
+P. RERKFELD (PERSON)
+01 (DATE)
+Philip Norris Incorporated
+Research Center (ORG)
+23261 (DATE)
+Thomas Osdene (PERSON)
+Phe De
+ (PERSON)
+Corporate Research & Development
+
+CONSULTANTS, inc. (ORG)
+9 (CARDINAL)
+CAMEPIDGE (ORG)
+07141 (CARDINAL)
+August 30, 1978 (DATE)
+0 (CARDINAL)
+Professional and Scientific Services (ORG)
+1978 (DATE)
+17,940.00 (MONEY)

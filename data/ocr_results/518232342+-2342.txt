@@ -1,0 +1,40 @@
+a7
+a
+ae 4
+
+Date: 03/25/97 Accounts Payable Voucher Voucher #: 006268
+_X_ Mail to Payee Check to be dated: 04/15/97
+
+Call for Check Pickup Name: Ext.:
+
+Return Name: Dept. Name:
+
+Bldg.: Room No. :
+FEI/SS 4 ; 56-1756927 Prepprprrernrerrrrrerrecercers
+AP Vendor # 70030081 * Amount: $ 13,000.00 *
+ap Contract # 197-867-017 Mrrvonrvesmerrrretectcerrceny
+AP Voucher #
+‘AP Pay Date :
+Name/Address : Lawrence Bewley & Associates
+P. 0. Box 2537
+Raleigh, NC 27602-2537
+
+Attention :
+
+Special payment information to appear on check stub:
+Quarterly Fees
+
+G/L Account Code Other Required Code Amount
+04-88-5015-9016-867 006268 $ 13,000.00
+
+W. BE, Ainsworth
+Ext.: 2738
+
+Rpproval Authority Name
+
+approves: WE Cn pavir
+
+GRD-12/92
+
+zeez ezets
+

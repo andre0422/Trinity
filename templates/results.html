@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Results</title>
+    <link rel="stylesheet" href="static\css\styles.css">
+</head>
+<body>
+
+<div id="container">
+    <div id="image-section">
+        <h2>Uploaded Document:</h2>
+        {% for image_path in images %}
+            <img src="{{ image_path }}" alt="Document Image">
+        {% endfor %}
+    </div>
+
+    <div id="text-section">
+        <h2>Extracted Text:</h2>
+        <pre>{{ ocr_text }}</pre>
+        
+        <h2>Named Entities:</h2>
+        <form method="post" action="/update-entities">
+            <table>
+                {% for entity_text, entity_label in entities %}
+                    <tr>
+                        <td><input type="text" name="entity_text[]" value="{{ entity_text }}"></td>
+                        <td>
+                            <select name="entity_label[]">
+                                <option value="DATE" {% if entity_label == 'DATE' %}selected{% endif %}>Date</option>
+                                <option value="MONEY" {% if entity_label == 'MONEY' %}selected{% endif %}>Money</option>
+                                <option value="ORG" {% if entity_label == 'ORG' %}selected{% endif %}>Organization</option>
+                                <option value="GPE" {% if entity_label == 'GPE' %}selected{% endif %}>Geopolitical Entity</option>
+                                <option value="LOC" {% if entity_label == 'LOC' %}selected{% endif %}>Location</option>
+                                <option value="PERSON" {% if entity_label == 'PERSON' %}selected{% endif %}>Person</option>
+                            </select>                            
+                        </td>
+                        <td><button type="button" onclick="removeRow(this)">Remove</button></td>
+                    </tr>
+                {% endfor %}
+            </table>
+            <button type="button" onclick="addRow()">Add Entity</button>
+            <input type="submit" value="Update Entities">
+        </form>
+    </div>
+</div>
+
+<script>
+    function addRow() {
+    const table = document.querySelector('table');
+    const newRow = document.createElement('tr');
+    newRow.innerHTML = `
+        <td><input type="text" name="entity_text[]"></td>
+        <td>
+            <select name="entity_label[]">
+                <option value="DATE">Date</option>
+                <option value="MONEY">Money</option>
+                <option value="ORG">Organization</option>
+                <option value="GPE">Geopolitical Entity</option>
+                <option value="LOC">Location</option>
+                <option value="PERSON">Person</option>
+            </select>
+        </td>
+        <td><button type="button" onclick="removeRow(this)">Remove</button></td>
+    `;
+    table.appendChild(newRow);
+}
+
+    function removeRow(button) {
+        const row = button.parentElement.parentElement;
+        row.parentElement.removeChild(row);
+    }
+</script>
+
+</body>
+</html>
+
+

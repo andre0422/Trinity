@@ -1,0 +1,26 @@
+ARIA
+
+Associates For Research On Indoor Air
+Co-ordinator (ORG)
+G.B. LESLIE (PERSON)
+2 (CARDINAL)
+Biggleswade
+Beds (WORK_OF_ART)
+England
+‘Tel: (PERSON)
+0)767 318474 (DATE)
+0)767 313929 (DATE)
+Rupp Esq (GPE)
+Covington & Burling (ORG)
+1201 (DATE)
+Pennsylvania Avenue (FAC)
+Washington DC (GPE)
+20007 (DATE)
+USA (GPE)
+12th July 1992 (DATE)
+UK (GPE)
+2 9,360.00 (CARDINAL)
+2 3,280.78 (DATE)
+213,717.55 (CARDINAL)
+Office (ORG)
+2,695.73 (MONEY)

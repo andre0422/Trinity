@@ -1,0 +1,21 @@
+2{1 (CARDINAL)
+Neil Holbert (PERSON)
+Philip Morris (ORG)
+USA (GPE)
+Park Avenue (FAC)
+New York (GPE)
+New York (GPE)
+NEW YORK (GPE)
+Date
+Invoice #
+
+ (ORG)
+2.0.2 (CARDINAL)
+111,300.00 (MONEY)
+5% (PERCENT)
+3 (CARDINAL)
+CO (ORG)
+949-9040 (CARDINAL)
+2/28/78 (CARDINAL)
+37,100.00 (MONEY)
+6E9GeSer07 (CARDINAL)

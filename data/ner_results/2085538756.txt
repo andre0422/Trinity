@@ -1,0 +1,33 @@
+NEW YORK UNIVERSITY SCHOOL OF MEDICINE
+
+ (ORG)
+Philip Morris (ORG)
+USA (GPE)
+615 (CARDINAL)
+Maury Stroot (PERSON)
+Richmond (GPE)
+Attn: Research Center (ORG)
+Tapas Sengupta (PERSON)
+545 (CARDINAL)
+First Avenue (FAC)
+New York (GPE)
+N.Y. (GPE)
+Restricted Funds SC1
+
+Date (ORG)
+AIC No (ORG)
+FAME (ORG)
+Enhanced Childhood Lung
+ (PERSON)
+Infections (ORG)
+October 1,200 (DATE)
+December 31, 2001 (DATE)
+New York Univer Sshoo of Medelae (GPE)
+January 21, 2002 (DATE)
+2 (CARDINAL)
+63-1-4955 (DATE)
+1582600 49554 (DATE)
+Ham SC
+
+‘ (ORG)
+one (CARDINAL)

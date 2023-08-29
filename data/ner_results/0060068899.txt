@@ -1,0 +1,37 @@
+Aeceno (PERSON)
+Ce Me (PRODUCT)
+Socuee TT AZARUS (PERSON)
+FULFILLMENT HOUSE (ORG)
+530 (CARDINAL)
+Oceanside Road (WORK_OF_ART)
+O27 Ss (ORG)
+NY (ORG)
+1572 (DATE)
+TERMS (ORG)
+30 DAYS (DATE)
+1609 (CARDINAL)
+December 31, 1992 (DATE)
+American Tobacco Co. (ORG)
+Siz Stamford Forum (ORG)
+Stamford (GPE)
+Chris Burt
+
+Re (PERSON)
+PO Box (ORG)
+4370 (DATE)
+P.O. # M13204
+
+Report (EVENT)
+17 (MONEY)
+12/1/92 (CARDINAL)
+Orders Processed This (WORK_OF_ART)
+927
+
+Service (MONEY)
+927 (CARDINAL)
+927 (CARDINAL)
+208.58 (CARDINAL)
+5403-25 (DATE)
+sll ebonaedtie (ORG)
+5166789328 2264515557
+Fan 51626600 (DATE)

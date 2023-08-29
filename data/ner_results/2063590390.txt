@@ -1,0 +1,5 @@
+Ragnar Rylander (PERSON)
+2,700.00 (MONEY)
+17,174.07 (MONEY)
+19,874.07 (MONEY)
+Tamara Banty (PERSON)

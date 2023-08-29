@@ -1,0 +1,31 @@
+Invoice Remit (ORG)
+Communicate (GPE)
+Clarion Maken (PERSON)
+7204 (DATE)
+Conner 6881 (ORG)
+0.2600 (CARDINAL)
+December 16, 1992
+
+ (DATE)
+Kenneth P. Noone (PERSON)
+Media & Diract Marketing
+‘The American Tobacco Company
+
+‘Six Stamford Forum (ORG)
+Stamford (GPE)
+#12-0237 (MONEY)
+DAM-M-5849 (ORG)
+#533, (MONEY)
+Clifton (GPE)
+New Jersey (GPE)
+Bull Durham Trial (ORG)
+3 (MONEY)
+6,000.00 (MONEY)
+6,000.00 (MONEY)
+Total Due & Payable Upon Receipt (ORG)
+6,000.00 (MONEY)
+R-20/Bull Durham Direct Mail (ORG)
+80h (CARDINAL)
+Clarion Marketing and Communications (ORG)
+PO (GPE)
+Detoit (GPE)

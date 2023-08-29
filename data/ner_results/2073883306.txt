@@ -1,0 +1,43 @@
+KRC RESEARCH (ORG)
+June 30, 1998 (DATE)
+June (DATE)
+Verner (PERSON)
+Lipfert (PERSON)
+Bernhard (PERSON)
+McPherson (PERSON)
+901 18th (DATE)
+Suite (ORG)
+700 (CARDINAL)
+Atlanta (GPE)
+30384 (CARDINAL)
+Washington (GPE)
+20008 (DATE)
+BSMG Worldwide, Inc. (ORG)
+Pulic Release Quantitative (ORG)
+8 (CARDINAL)
+Lombardo NY (ORG)
+$/13-5/15/98 (MONEY)
+910.00 (CARDINAL)
+Total Lodging
+
+Ground Transportation (ORG)
+Overnight (TIME)
+Telephone
+Messenger Service (ORG)
+Photocopy
+
+Facsimile
+
+Total Anount (WORK_OF_ART)
+Ed Gibtions (PERSON)
+New York (GPE)
+New York (GPE)
+100IMRI02 (CARDINAL)
+44 (DATE)
+62 (CARDINAL)
+46 (CARDINAL)
+30 (CARDINAL)
+98 (CARDINAL)
+40 (CARDINAL)
+1,652.55 (MONEY)
+2,652.55 (MONEY)

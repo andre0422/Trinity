@@ -1,0 +1,16 @@
+POLITICAL (ORG)
+October 19, 1994 (DATE)
+Jimmy Benefield (PERSON)
+Atlanta (GPE)
+30302 (CARDINAL)
+Democrat (NORP)
+Ways & Means
+
+CONTRIBUTION INFORMATION
+
+Amount (ORG)
+200.00 (MONEY)
+Jimmy Benefield (PERSON)
+Notes (PRODUCT)
+2 (CARDINAL)
+11631-0407 (DATE)

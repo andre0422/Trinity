@@ -1,0 +1,32 @@
+October 5, 1993 (DATE)
+Invoice # 0393 (ORG)
+Bill Degenhardt (PERSON)
+Hop
+American Tobacco Company (PERSON)
+Six (CARDINAL)
+Stamford (GPE)
+Description of Services Amount
+
+- Development (ORG)
+Selective Binding Fee (PERSON)
+15,000.00 (MONEY)
+Fox (ORG)
+MIT (ORG)
+Dye (PERSON)
+International Corporate Center (ORG)
+555 (CARDINAL)
+Fremd Avenue (FAC)
+Suite A-201 L004
+ (ORG)
+W143
+
+Rye (PRODUCT)
+New York (GPE)
+10580 (DATE)
+thirty days (DATE)
+Corporate Center
+Rye (FAC)
+914 (CARDINAL)
+925 (CARDINAL)
+Feesimie (PERSON)
+914 (CARDINAL)

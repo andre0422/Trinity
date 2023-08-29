@@ -1,0 +1,12 @@
+POLITICAL (ORG)
+November 22, 1994 (DATE)
+Larry Crouse (PERSON)
+Spokane (LANGUAGE)
+99206 (DATE)
+Party (ORG)
+Republican (NORP)
+150.00 (MONEY)
+Larry Crouse Campaign Committee
+
+Address (ORG)
+Notes (PRODUCT)

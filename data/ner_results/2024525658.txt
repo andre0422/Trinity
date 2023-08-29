@@ -1,0 +1,41 @@
+10 (CARDINAL)
+2.0 (CARDINAL)
+Covington & Burling (ORG)
+1201 (DATE)
+Pennsylvania Avenue (FAC)
+N.W. (GPE)
+Washington (GPE)
+D.C. (GPE)
+20044 (DATE)
+3638 (DATE)
+John Rupp
+
+ (PERSON)
+Finland (GPE)
+Amer Group Ltd (ORG)
+1 (CARDINAL)
+Robertson (PERSON)
+Amer Group Ltd (ORG)
+Lasse Lehtinen (PERSON)
+Wey (GPE)
+Philip Mortis (ORG)
+New York (GPE)
+Tuesday (DATE)
+October 2, 1990 (DATE)
+Hl
+
+Consulting Fees (ORG)
+One day (DATE)
+1,000 (MONEY)
+1,000.00 (MONEY)
+Trump (ORG)
+129.00 (MONEY)
+Taxi New York (GPE)
+Hyatt Hotel
+Taxi (PERSON)
+LaGuardia (PERSON)
+1,371.30 (MONEY)
+HBI Ine (ORG)
+Gray Robertson
+
+Enelosures (PERSON)

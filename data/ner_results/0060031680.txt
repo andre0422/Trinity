@@ -1,0 +1,15 @@
+The American Tobacco Company (ORG)
+Six (CARDINAL)
+Stamford (GPE)
+Robert (PERSON)
+RIVIERA (ORG)
+$8 SAVINGS
+
+ (MONEY)
+15493 (DATE)
+December 31, 1992
+ (DATE)
+30 days (DATE)
+§ (NORP)
+4 (CARDINAL)
+KEV (ORG)

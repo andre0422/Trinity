@@ -1,0 +1,24 @@
+PO P ASSOCIATES, INC. (ORG)
+August 17, 1970
+
+ (DATE)
+The American Tobacco Company (ORG)
+245 (CARDINAL)
+Park Avenue (FAC)
+New York (GPE)
+10017 (DATE)
+81 (CARDINAL)
+Rove (PERSON)
+‘Pall Mall Gold (WORK_OF_ART)
+Rove
+
+International, Inc. (ORG)
+the month (DATE)
+July (DATE)
+1970 (DATE)
+5.00 (MONEY)
+2.24.4 (CARDINAL)
+405.00 (MONEY)
+Buz (ORG)
+52 (CARDINAL)
+SPECIAUSTS (ORG)

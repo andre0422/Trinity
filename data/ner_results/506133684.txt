@@ -1,0 +1,28 @@
+KOLBYE ASSOCIATES (ORG)
+9319 Old Georgetown Road (WORK_OF_ART)
+Bethesda (GPE)
+MD (GPE)
+20814 (DATE)
+0r:301-564-4400 (CARDINAL)
+Suzanne L. Jowdy (PERSON)
+23 (CARDINAL)
+October 86 (DATE)
+Winston-Salem (GPE)
+NC (GPE)
+27102 (DATE)
+one quarter (DATE)
+Work Performed
+
+None
+Additional (WORK_OF_ART)
+10,000.00 (MONEY)
+August 23 (DATE)
+October 23, 1986
+Period (DATE)
+G. Robert DiMarco (PERSON)
+Kolbye Associates (ORG)
+Mdbexe (GPE)
+Albert C. Kolbye Jr. (PERSON)
+MO/MPY/ID (ORG)
+Kolbye Assoddates (PERSON)
+9895 (DATE)
