@@ -39,7 +39,8 @@
                 {% endfor %}
             </table>
             <button type="button" onclick="addRow()">Add Entity</button>
-            <input type="submit" value="Update Entities">
+            <a href="{{ url_for('index') }}" class="back-button">Back to Upload</a>
+
         </form>
     </div>
 </div>
@@ -63,6 +64,10 @@
         <td><button type="button" onclick="removeRow(this)">Remove</button></td>
     `;
     table.appendChild(newRow);
+    function goBack() {
+        window.location.href = '/';
+    }
+
 }
 
     function removeRow(button) {
