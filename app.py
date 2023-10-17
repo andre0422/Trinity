@@ -6,7 +6,7 @@ import spacy
 import uuid
 import os
 
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe' #local tesseract model 
 
 app = Flask(__name__)
 
@@ -17,7 +17,7 @@ nlp = spacy.load("en_core_web_sm")
 def index():
     return render_template('index.html')
 
-@app.route('/upload', methods=['POST'])
+@app.route('/upload', methods=['POST']) 
 def upload():
     if 'file' not in request.files:
         return 'No file part'
@@ -67,4 +67,4 @@ def upload():
     return render_template('results.html', ocr_text="\n".join(lines), entities=named_entities, images=image_paths)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True) #TURN OFF BEFORE DEPLOYMENT
